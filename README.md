@@ -1,2 +1,2 @@
-
-fancifully imaging that I'll step on sky ☁ 
+ ☁ Computer Vision, Embedded Software, Robotics, Kinematics, Optics.
+  ☁ Marketing & Product Operation & Project Management
