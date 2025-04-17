@@ -7,7 +7,7 @@
 
 
 
-** My Skills **
+## My Skills 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,python,docker,opencv,c,ros,linux,vim,qt,matlab" />
